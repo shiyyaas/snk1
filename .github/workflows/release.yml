@@ -10,7 +10,7 @@ on:
           Otherwise for other format ( for example <major>.<minor>.<patch>-beta.1 ), a prerelease is emitted.
         default: "0.0.1"
         required: true
-        type: string
+        type: string 
       description:
         description: "Version description"
         type: string
